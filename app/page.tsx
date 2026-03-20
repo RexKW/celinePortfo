@@ -14,7 +14,7 @@ export default function Home() {
     <div className="flex overflow-hidden relative flex-col min-h-screen items-center justify-center  bg-[#f8f5f2] bg-[radial-gradient(circle_at_0%_0%,#963d29,transparent_65%),radial-gradient(circle_at_100%_0%,#702808,transparent_65%),radial-gradient(circle_at_50%_50%,#9c501c,transparent_65%),radial-gradient(circle_at_100%_50%,#9c501c,transparent_65%),radial-gradient(circle_at_0%_100%,#702808,transparent_65%),radial-gradient(circle_at_100%_100%,#63291b,transparent_65%)] font-sans dark:bg-black">
         <NavbarMain/>
         <Image
-          src="/main/BackgroundStars.png"
+          src="/main/BackgroundStars.svg"
           alt="Background"
           fill
           className="object-cover z-2 pointer-events-none"
