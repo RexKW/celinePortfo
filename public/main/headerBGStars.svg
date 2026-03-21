@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1563.26 432.53">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-dasharray: 0 0 0 15.22;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: none;
+        stroke: #d4cc95;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+
+      .cls-2 {
+        stroke-dasharray: 0 0 0 15.06;
+      }
+
+      .cls-4 {
+        stroke-dasharray: 0 0 0 15.22;
+      }
+
+      .cls-5 {
+        stroke-dasharray: 0 0 0 15.06;
+      }
+    </style>
+  </defs>
+  <g id="ORNAMENTS">
+    <g>
+      <line class="cls-3" x1="1171.44" y1="109.13" x2="1171.44" y2="109.13"/>
+      <path class="cls-4" d="M1156.72,112.98c-339.34,88.48-357.45,83.33-374.41-103.4"/>
+      <line class="cls-3" x1="781.63" y1="2" x2="781.63" y2="2"/>
+      <path class="cls-1" d="M780.25,17.16c-16.94,180.59-39.34,183.13-381.07,93.9"/>
+      <line class="cls-3" x1="391.81" y1="109.13" x2="391.81" y2="109.13"/>
+      <path class="cls-5" d="M406.29,113.32c324.57,94.04,302,98.19-396.75,102.9"/>
+      <line class="cls-3" x1="2" y1="216.27" x2="2" y2="216.27"/>
+      <path class="cls-2" d="M17.06,216.37c696.49,4.72,712.9,9.21,381.99,104.94"/>
+      <line class="cls-3" x1="391.81" y1="323.4" x2="391.81" y2="323.4"/>
+      <path class="cls-4" d="M406.54,319.55c339.34-88.48,357.45-83.33,374.41,103.4"/>
+      <line class="cls-3" x1="781.63" y1="430.53" x2="781.63" y2="430.53"/>
+      <path class="cls-1" d="M783.01,415.38c16.94-180.59,39.34-183.13,381.07-93.9"/>
+      <line class="cls-3" x1="1171.44" y1="323.4" x2="1171.44" y2="323.4"/>
+      <path class="cls-5" d="M1156.97,319.21c-324.57-94.04-302-98.19,396.75-102.9"/>
+      <line class="cls-3" x1="1561.26" y1="216.27" x2="1561.26" y2="216.27"/>
+      <path class="cls-2" d="M1546.19,216.16c-696.49-4.72-712.9-9.21-381.99-104.94"/>
+    </g>
+  </g>
+</svg>

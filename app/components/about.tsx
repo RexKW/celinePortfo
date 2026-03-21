@@ -3,11 +3,13 @@ import React from 'react'
 function About() {
   return (
     <div id='about' className=' min-h-screen h-full min-w-screen relative flex flex-col justify-center items-center'>
-      <div className='relative pt-64 md:pt-100 h-full z-50 flex flex-col justify-center items-center'>
-        <div>
-          <img src="/main/pixerunii.svg" className='w-[100vw] md:w-[60vw] mt-[-20%]  z-50 h-full' alt="" />
+      <img src="/main/headerBGStars.svg" className='min-w-[60vw] absolute z-5 top-[9%] md:top-[13%] left-0' alt="" />
+      <div className='relative pt-50 md:pt-100 h-full z-50 flex flex-col justify-center items-center'>
+        <div className='relative'>
+          <img src="/main/pixerunii.svg" className='w-[100vw] md:w-[60vw] mt-[-20%] relative  z-50 h-full' alt="" />
+          
         </div>
-        <div className='flex flex-col pb-64 lg:pb-0 md:flex-row w-screen h-full lg:px-64 justify-between p-15 lg:p-20'>
+        <div className='flex flex-col pb-64 lg:pb-32 md:flex-row w-screen h-full lg:px-64 justify-between p-15 lg:p-20'>
           <img src="/main/Character.svg" className='h-[50vh] basis-1/4' alt="" />
           <div className='flex text-2xl flex-col mt-10 lg:mt-0 justify-center items-start basis-3/4'>
             <p className='text-center lg:text-start'>Hi, I’m Celine! , a digital illustrator specializing in fantasy character and narrative illustration. My work focuses on visual storytelling, depicting characters, environments, and scenes that feel part of a larger world.</p>
@@ -25,6 +27,7 @@ function About() {
         </div>
       </div>
       <img src="/main/SideCurtains.svg" className='w-screen absolute top-[-10%] md:top-[-5%] z-3' alt="" />
+      <img src="/main/starsAboutBottom.svg" className='w-[35%] lg:w-[35%] absolute z-2 bottom-0' alt="" />
       <img src="/main/aboutCornerBottomFlower.svg" className='w-[35%] lg:w-[15%] absolute z-2 bottom-0 right-0 lg:right-5' alt="" />
       <img src="/main/aboutCornerBottomFlower.svg" className='w-[35%] lg:w-[15%] absolute z-2 bottom-0 left-0 lg:left-5 scale-x-[-1]' alt="" />
       {/* <div className="h-[125vh] w-screen absolute z-1 top-[-35%] blur-2xl 

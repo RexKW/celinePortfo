@@ -27,16 +27,19 @@ export default function Home() {
         />
         <div className="relative">
           <About/>
-          <div className="h-[70vh] md:h-[125vh] w-full absolute z-1 top-[-10%] md:top-[-25%] right-0 blur-2xl 
+          <div className="h-[70vh] mix-blend md:h-[125vh] w-full absolute z-1 top-[-10%] md:top-[-25%] left-0 blur-2xl 
+          bg-[radial-gradient(ellipse_60%_60%_at_center,#6a220fee_0%,#6a220faa_25%,#6a220f55_50%,transparent_80%)] lg:hidden">
+          </div>
+          <div className="h-[70vh] md:h-[125vh]  w-full absolute z-1 top-[-10%] md:top-[-25%] right-0 blur-2xl 
           bg-[radial-gradient(ellipse_60%_60%_at_center,#6a220fee_0%,#6a220faa_25%,#6a220f55_50%,transparent_80%)]">
           </div>
-          <div className="h-[70vh] md:h-[125vh] w-full absolute z-1 top-[-10%] md:top-[-25%] left-0 blur-2xl 
+          <div className="h-[70vh] md:h-[125vh]  w-full absolute z-1 top-[-10%] md:top-[-25%] left-0 blur-2xl 
           bg-[radial-gradient(ellipse_60%_60%_at_center,#6a220fee_0%,#6a220faa_25%,#6a220f55_50%,transparent_80%)]">
           </div>
-          <div className="h-[70vh] md:h-[125vh] w-full absolute z-1 top-[-10%] md:top-[-15%] blur-2xl 
+          <div className="h-[70vh] md:h-[125vh] w-full absolute z-1 top-[-5%] md:top-[-15%] blur-2xl 
           bg-[radial-gradient(ellipse_60%_60%_at_center,#efbe35ee_0%,#efbe35aa_25%,#ab732755_50%,transparent_80%)]">
           </div>
-          <div className="h-[70vh] md:h-[125vh] w-full absolute z-1 top-[-10%] md:top-[-15%] blur-2xl 
+          <div className="h-[70vh] md:h-[125vh] w-full absolute z-1 top-[-5%] md:top-[-15%] blur-2xl 
           bg-[radial-gradient(ellipse_60%_60%_at_center,#efbe35ee_0%,#efbe35aa_25%,#ab732755_50%,transparent_80%)]">
           </div>
         <div className="h-[155vh] w-full absolute z-0 top-[-25%]
