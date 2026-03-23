@@ -3,7 +3,7 @@ import { grenzeGotisch } from '../layout'
 
 function About() {
   return (
-    <div id='about' className=' min-h-screen h-full min-w-screen relative flex flex-col justify-center items-center'>
+    <div id='about' className=' min-h-screen text-white h-full min-w-screen relative flex flex-col justify-center items-center'>
       <img src="/main/headerBGStars.svg" className='w-[80vw] absolute z-5 top-[10%] md:top-[15%] ' alt="" />
       <div className='relative pt-50 md:pt-100 h-full z-50 flex flex-col justify-center items-center'>
         <div className='relative'>
