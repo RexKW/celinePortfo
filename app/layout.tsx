@@ -26,7 +26,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${grenzeGotisch.className} ${pirataOne.className} antialiased`}
+        className={`${grenzeGotisch.className} ${pirataOne.className} text-white antialiased`}
       >
         {children}
       </body>
