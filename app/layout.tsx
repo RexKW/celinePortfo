@@ -2,12 +2,12 @@ import type { Metadata } from "next";
 import { Grenze_Gotisch, Pirata_One } from "next/font/google";
 import "./globals.css";
 
-const grenzeGotisch = Grenze_Gotisch({
+export const grenzeGotisch = Grenze_Gotisch({
   variable: "--font-grenze-gotisch",
   subsets: ["latin"],
 });
 
-const pirataOne = Pirata_One({
+export const pirataOne = Pirata_One({
   variable: "--font-pirata-one",
   weight: "400",
   subsets: ["latin"],

@@ -26,6 +26,10 @@ html {
   }
 }
 
+.group:has(.card:hover) .card:not(:hover) {
+  transform: scale(0.9);
+}
+
 body {
   background: var(--background);
   color: var(--foreground);
@@ -37,3 +41,4 @@ body {
   padding: 0px;
   border-image: url(/main/portfolioSection/borderPortfolio.png) 35% round;
 }
+
