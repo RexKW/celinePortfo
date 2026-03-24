@@ -29,8 +29,8 @@ function About() {
       </div>
       <img src="/main/SideCurtains.svg" className='w-screen absolute top-[-10%] md:top-[-5%] z-3' alt="" />
       <img src="/main/starsAboutBottom.svg" className='w-[35%] lg:w-[35%] absolute z-2 bottom-0' alt="" />
-      <img src="/main/aboutCornerBottomFlower.svg" className='w-[35%] lg:w-[15%] absolute z-2 bottom-0 right-0 lg:right-5' alt="" />
-      <img src="/main/aboutCornerBottomFlower.svg" className='w-[35%] lg:w-[15%] absolute z-2 bottom-0 left-0 lg:left-5 scale-x-[-1]' alt="" />
+      <img src="/main/aboutCornerBottomFlower.svg" className='w-[35%] lg:w-[20%] absolute z-2 bottom-0 right-0 lg:right-5' alt="" />
+      <img src="/main/aboutCornerBottomFlower.svg" className='w-[35%] lg:w-[20%] absolute z-2 bottom-0 left-0 lg:left-5 scale-x-[-1]' alt="" />
       {/* <div className="h-[125vh] w-screen absolute z-1 top-[-35%] blur-2xl 
         bg-[radial-gradient(ellipse_60%_60%_at_center,#efbe35ee_0%,#efbe35aa_25%,#ab732755_50%,transparent_80%)]">
         </div>

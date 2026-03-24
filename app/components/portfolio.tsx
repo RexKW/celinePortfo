@@ -14,18 +14,18 @@ function Portfolio() {
                 <p className='text-5xl '>Websurfer</p>
                 <p className={`${grenzeGotisch.className}`}>IP DEVELOPMENT</p>
               </div>
-              <div className='bg-linear-to-b z-2 absolute bottom-0 left-0 from-transparent to-black w-full h-full'></div>
+              <div className='bg-linear-to-b z-2 absolute  bottom-0 left-0 from-transparent to-black w-full h-full transition animation duration-200 active:to-transparent active:from-white active:bg-radial'></div>
             </div>
           </div>
         </Link>
         <Link href="/portfolio?project=1">
-          <div id='borderimg' className='card w-60 h-90 transition-all duration-300 ease-in-out hover:!scale-110 md:mb-10 flex justify-center items-center bg-[url(/main/portfolioSection/chromaClub.png)] flex flex-col justify-center items-center  bg-cover bg-center bg-no-repeat'>
+          <div id='borderimg' className='card w-60 h-72 transition-all duration-300 ease-in-out hover:!scale-110 md:mb-20 flex justify-center items-center bg-[url(/main/portfolioSection/chromaClub.png)] flex flex-col justify-center items-center  bg-cover bg-center bg-no-repeat'>
             <div className='flex flex-col relative w-full h-full p-3 justify-end items-start'>
               <div className='flex flex-col relative z-3'>
                 <p className='text-5xl '>Chroma<br/>Club</p>
                 <p className={`${grenzeGotisch.className} leading-none`}>Character Design<br/>for Branding</p>
               </div>
-              <div className='bg-linear-to-b z-2 absolute bottom-0 left-0 from-transparent to-black w-full h-full'></div>
+              <div className='bg-linear-to-b z-2 absolute bottom-0 left-0 from-transparent to-black w-full h-full transition animation duration-200 active:to-transparent active:from-white active:bg-radial'></div>
             </div>
           </div>
         </Link>
@@ -36,7 +36,7 @@ function Portfolio() {
                 <p className='text-5xl '>Meja<br/>Makan</p>
                 <p className={`${grenzeGotisch.className}`}>Teh Botol Sosro Packaging</p>
               </div>
-              <div className='bg-linear-to-b z-2 absolute bottom-0 left-0 from-transparent to-black w-full h-full'></div>
+              <div className='bg-linear-to-b z-2 absolute bottom-0 left-0 from-transparent to-black w-full h-full transition animation duration-200 active:to-transparent active:from-white active:bg-radial'></div>
             </div>
           </div>
         </Link>
@@ -47,9 +47,9 @@ function Portfolio() {
             <div className='flex flex-col relative w-full h-full p-3 justify-end items-start'>
               <div className='flex flex-col relative z-3'>
                 <p className='text-5xl '>Personal<br/>Works</p>
-                <p className={`${grenzeGotisch.className}`}>IP DEVELOPMENT</p>
+                <p className={`${grenzeGotisch.className}`}>2D Illustration & Personal IP</p>
               </div>
-              <div className='bg-linear-to-b z-2 absolute bottom-0 left-0 from-transparent to-black w-full h-full'></div>
+              <div className='bg-linear-to-b z-2 absolute bottom-0 left-0 from-transparent to-black w-full h-full transition animation duration-200 active:to-transparent active:from-white active:bg-radial'></div>
             </div>
           </div>
         </Link>
@@ -60,7 +60,7 @@ function Portfolio() {
                 <p className='text-5xl '>Commissions</p>
                 <p className={`${grenzeGotisch.className}`}>2D Illustration</p>
               </div>
-              <div className='bg-linear-to-b z-2 absolute bottom-0 left-0 from-transparent to-black w-full h-full'></div>
+              <div className='bg-linear-to-b z-2 absolute bottom-0 left-0 from-transparent to-black w-full h-full transition animation duration-200 active:to-transparent active:from-white active:bg-radial'></div>
             </div>
           </div>
         </Link>
