@@ -4,7 +4,7 @@ import { grenzeGotisch } from '../layout'
 
 function Portfolio() {
   return (
-    <div id='portfolio' className=' min-h-screen text-white min-w-screen relative z-2 md:gap-5 flex flex-col justify-items-center items-center p-10'>
+    <div id='portfolio' className=' min-h-screen select-none text-white min-w-screen relative z-2 md:gap-5 flex flex-col justify-items-center items-center p-10'>
       <div className='flex flex-col justify-center items-center group'>
        <div className='flex flex-col md:flex-row gap-5 items-center md:items-end'>
         <Link href="/portfolio?project=0">
