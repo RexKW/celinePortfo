@@ -48,10 +48,10 @@ export default function PersonalWorks() {
                 </div>
             </div>
             <div className='flex grid grid-cols-1  justify-items-center w-ful1 md:grid-cols-2 gap-10 mt-20'>
-                <img src="/portfolio/personalWorks/personalWorks5.png" className='w-full h-auto order-1' alt="" />
-                <img src="/portfolio/personalWorks/personalWorks6.png" className='w-full h-auto order-2' alt="" />
-                <img src="/portfolio/personalWorks/personalWorks7.png" className='w-full h-auto order-3' alt="" />
-                <img src="/portfolio/personalWorks/personalWorks8.png" className='w-full h-auto order-4' alt="" />
+                <Image width={600} height={300} src="/portfolio/personalWorks/personalWorks5.png" className='w-full h-auto order-1' alt="" />
+                <Image width={600} height={300} src="/portfolio/personalWorks/personalWorks6.png" className='w-full h-auto order-2' alt="" />
+                <Image width={600} height={300} src="/portfolio/personalWorks/personalWorks7.png" className='w-full h-auto order-3' alt="" />
+                <Image width={600} height={300} src="/portfolio/personalWorks/personalWorks8.png" className='w-full h-auto order-4' alt="" />
             </div>
         </div>
     )
