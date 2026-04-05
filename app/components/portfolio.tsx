@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import React from 'react'
-import { grenzeGotisch } from '../layout'
+import { grenzeGotisch } from '../fonts'
 
 function Portfolio() {
   return (

@@ -1,5 +1,5 @@
 import React from 'react'
-import { grenzeGotisch } from '../layout'
+import { grenzeGotisch } from '../fonts'
 
 function About() {
   return (

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 86.16 76.83">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cfa22f;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #f7e9dc;
+      }
+
+      .cls-3 {
+        fill: #f8ea9e;
+      }
+
+      .cls-4 {
+        mask: url(#mask);
+      }
+    </style>
+    <mask id="mask" x="-36.43" y="-36.98" width="156" height="150" maskUnits="userSpaceOnUse">
+      <image width="156" height="150" transform="translate(-36.43 -36.98)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJwAAACWCAYAAAArI+ErAAAACXBIWXMAAAsSAAALEgHS3X78AAAFP0lEQVR4nO3cYZOcIAyA4djp///L9MOtW5YDxRVCEt9nptN271aixKCiigAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgCjS6gAwz7Y6gIpWwlmMFRdZ7sTeSmd5HVCw3lkjhlfr6/goHjpj9TGdh23khpeNuSTpUkqybd2byMu2XMrTRlpd6d4JWCZiSvXQtgvZ+hTeNsiySici7yQrE2xPwiMk3w9vG0Et4fJqdqb397Lf97bdh/G44tOTrufYLa96V5Iz98TE+7M6gC9M7aTW8Vn5t8i9ZHstK6VvvuiY5z1MvaPKqnbF2XeeUu08r6Rqwt2pZFdETzyPQ+pOpWPyBLt4Xe7b9kIPsZ4Tbqra8JknW+vfg9oOm3TeE25auWkNn7WhdUZ+RE26CMcLUzqmdzZhtmjHdN4rnMjgnSalVK1e27a9/8y0Lz+b1QhV6aLsPdOqXGnmmWpZUYvjxxB99Xd1AINsMjDparMI5c9maJ2cRCpyIfaal9u9UuvwlZ1dKWru+yvCMdwQZVWzkGh7HFks7kud+z2mMLRDViRdnmzlXG1W8dz2m9vAG25liIVjpdpw3jhfcNl30YbUS51Qm7YqL0usZiWOUWKtzY/bVa4cwlYNrR1zt+76z13AHYacrWomW2u+tvfrwwOayFWwFzSzpHZdbdW1rlqiHSXeQcVz04/RjuFO1ZKt/PzoOyPjKJP87AbPgzjWn+10ippwpxnSGjZblWW0ViW7cfzoIunclOIvdQ+t+2ertK6/fbOooYENFmUuteU9x1qrGgtvOWq2H+0ySCnqkJr76MGzu3c15NNVrbZvxGR6aI29O/2WrJyVtn4+srmRCxvlCRUut73uK9tqZ6cKD8i828nbjz6M5p6zph00767tSbIBT4mZ619zAVk0KhHLIVWhspnrX3MBeXSUkLUkO0q6Cc++mupjU8FEVkvK8trbJKb62FQwEJHxlzVM9bGpYCLaK9uiM1Fz/WsuIE+unky07lK5OZV12OToBd5lLiBLRpydHh2nKbwcx1z/mgtoBY3rbwuGVJN9G33yvkr79Qk9N1c+xZOmtvY3nKrPJihf7BUxWt1EHpJwK14IU94+np8cWHgccRWze8IIKaW04s6QWrLlP5vd/OwG7ohc4dLZ8wojO792q3j5f4UnwUwnm4iDAG9Y9mq11luXnnYJpMZFkFflV/dnJ90XT1hNCUOzsTvCDamr3xjZ86qvwSG6STYRZ8H2WJlwN5+g/7pZrYZGCFfhtG/Zzk9MlCraR/OzFjyLu4BPfDwSuPoxwDyWGc3MWOhsoSpc+fotbbU3V05KfJfJJuI48Iolh2+1u0GedAfvVWEqnKXpIpKtLUzCad+BUbsDxFLSW+V+j3n5/5pv5RcI5p/NbnZ2AxpCVLj8IH22s2ttk2IIkWwiQRJORGdILSvbfnJQe9XWyGZHLmy1CCvzvvamofbCwInX3SL0zwf3FU5jcr71WS25SLZjrldK6+GX1lA5ce7Udb8ccb1iWld6z5JudHOjF2iJ26e2NKcVFO93C51sIk6P4bRen9B6cHnSreLhk03EacLtZha52m3i+ZA6sO1NHpJsIg6HVO0Z+tqjfrtob6fU4KrCWThuG/G6EXlosok4WnHNSyCtn91Z9J0vR+JlQyx95O8VwK//HyShl+2qzvyGsfJQTP5Z+WtqAQVgfWNpz5Na3x7uWd7AXz8QQ+LYZbJjeoZRksonc51WSzaSCwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPN0/xkLbieP93FIAAAAASUVORK5CYII="/>
+    </mask>
+  </defs>
+  <g id="ORNAMENTS">
+    <g>
+      <path class="cls-2" d="M16.79,55.77c1.59-4.32,2.7-9.25,6.61-12.17,2.69-2.01,6.34-2.77,9.97-3.4,12.16-2.13,25.63-3.44,40.6-4.21.7-.04,1.5-.14,2.34-.27-.7-.1-1.36-.18-1.95-.21-15.01-.76-28.5-2.08-40.69-4.21-3.64-.64-7.29-1.39-9.99-3.41-3.92-2.92-5.04-7.86-6.63-12.18C14.26,8.13,8.35-.23.9.39c8.03-.67,18.65-.02,27.93.5,12.08.67,26.81.52,36.84,8.26,3.25,2.51,5.7,5.67,8.16,8.86,3.66,4.73,9.27,9.95,11.87,15.38.67,1.41.57,2.26-.02,2.74.11.49.02,1.13-.4,2.01-2.59,5.43-8.19,10.63-11.84,15.36-2.46,3.18-4.9,6.34-8.14,8.84-10.01,7.73-24.7,7.59-36.76,8.26-9.26.51-17.75,1.73-25.42,3.57,6.05-4.38,10.88-10.8,13.66-18.38Z"/>
+      <g>
+        <path class="cls-1" d="M13.66,58.44c1.59-4.32,2.7-9.25,6.61-12.17,2.69-2.01,6.34-2.77,9.97-3.4,12.16-2.13,25.63-3.44,40.6-4.21.7-.04,1.5-.14,2.34-.27-.7-.1-1.36-.18-1.95-.21-15.01-.76-28.5-2.08-40.69-4.21-3.64-.64-7.29-1.39-9.99-3.41-3.92-2.92-5.04-7.86-6.63-12.18C11.13,10.81,6.29,4.38.23,0c7.69,1.84,16.19,3.05,25.47,3.57,12.08.67,26.81.52,36.84,8.26,3.25,2.51,5.7,5.67,8.16,8.86,3.66,4.73,9.27,9.95,11.87,15.38.67,1.41.57,2.26-.02,2.74.11.49.02,1.13-.4,2.01-2.59,5.43-8.19,10.63-11.84,15.36-2.46,3.18-4.9,6.34-8.14,8.84-10.01,7.73-24.7,7.59-36.76,8.26-9.26.51-17.75,1.73-25.42,3.57,6.05-4.38,10.88-10.8,13.66-18.38Z"/>
+        <g class="cls-4">
+          <path class="cls-3" d="M13.66,58.44c1.59-4.32,2.7-9.25,6.61-12.17,2.69-2.01,6.34-2.77,9.97-3.4,12.16-2.13,25.63-3.44,40.6-4.21.7-.04,1.5-.14,2.34-.27-.7-.1-1.36-.18-1.95-.21-15.01-.76-28.5-2.08-40.69-4.21-3.64-.64-7.29-1.39-9.99-3.41-3.92-2.92-5.04-7.86-6.63-12.18C11.13,10.81,6.29,4.38.23,0c7.69,1.84,16.19,3.05,25.47,3.57,12.08.67,26.81.52,36.84,8.26,3.25,2.51,5.7,5.67,8.16,8.86,3.66,4.73,9.27,9.95,11.87,15.38.67,1.41.57,2.26-.02,2.74.11.49.02,1.13-.4,2.01-2.59,5.43-8.19,10.63-11.84,15.36-2.46,3.18-4.9,6.34-8.14,8.84-10.01,7.73-24.7,7.59-36.76,8.26-9.26.51-17.75,1.73-25.42,3.57,6.05-4.38,10.88-10.8,13.66-18.38Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
