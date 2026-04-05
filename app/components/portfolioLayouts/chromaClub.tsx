@@ -1,5 +1,6 @@
 import React from 'react'
 import { grenzeGotisch } from '../../fonts'
+import Image from 'next/image'
 
 
 export default function ChromaClub() {
@@ -118,14 +119,14 @@ export default function ChromaClub() {
               </div>
             </div>
             <div className='flex flex-col items-center'>
-              <img src="/portfolio/chromaClub/chromaClubFinalLineup8.png" alt="" className='w-[300px] h-auto mt-20 items-center' />
+              <img src="/portfolio/chromaClub/chromaClubFinalLineup8.png" alt="" className='w-full h-auto lg:w-[300px] w-full h-auto lg:h-auto mt-20 items-center' />
               <div className='text-center mt-10 flex flex-col'>
                 <p className='text-5xl'>Haeul</p>
                 <p className={`text-xl ${grenzeGotisch.className}`}>Autumn<br /><br />The local librarian who finds beauty in calmness. She is quite, introverted, and grounded</p>
               </div>
             </div>
             <div className='flex flex-col items-center'>
-              <img src="/portfolio/chromaClub/chromaClubFinalLineup9.png" alt="" className='w-[300px] mt-20 h-auto items-center' />
+              <img src="/portfolio/chromaClub/chromaClubFinalLineup9.png" alt="" className='w-full h-auto lg:w-[300px] mt-20 w-full h-auto lg:h-auto items-center' />
               <div className='text-center flex flex-col mt-10'>
                 <p className='text-5xl'>Jiseol</p>
                 <p className={`text-xl ${grenzeGotisch.className}`}>Winter<br /><br />the university student with bold ideas and a curious spirit. </p>

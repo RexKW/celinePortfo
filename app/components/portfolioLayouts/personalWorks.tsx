@@ -11,7 +11,7 @@ export default function PersonalWorks() {
                 {/* Title */}
                 <div className='order-1 md:hidden flex flex-col items-center'>
                     <p className='text-5xl'>Revolution</p>
-                    <p className='text-2xl'>Personal IP</p>
+                    <p className={`text-2xl ${grenzeGotisch.className}`}>Personal IP</p>
                 </div>
 
                 {/* Left Side (desktop grouping) */}
@@ -20,11 +20,11 @@ export default function PersonalWorks() {
                     {/* Title (desktop only) */}
                     <div className='hidden md:flex flex-col'>
                         <p className='text-5xl'>Revolution</p>
-                        <p className='text-2xl'>Personal IP</p>
+                        <p className={`text-2xl ${grenzeGotisch.className}`}>Personal IP</p>
                     </div>
 
                     {/* Description */}
-                    <p className='mt-2 text-justify text-2xl md:text-left'>
+                    <p className={`mt-2 text-justify text-2xl md:text-left ${grenzeGotisch.className}`}>
                         <br />
                         Revolution is an original fantasy story project I have been developing for nearly a decade. Set in a world shaped by magic, political conflict, and forgotten history, the narrative follows several intertwined characters as they struggle against the roles and fates imposed upon them.
                     </p>

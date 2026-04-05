@@ -62,7 +62,7 @@ export default function Commissions() {
             </div>
 
             <div className='mt-20 flex flex-col justify-center items-center'>
-                <Image width={1200} height={600} src="/portfolio/commissionWork/commissionWork8.png" className='w-full h-[600px]' alt="" />
+                <Image width={1200} height={600} src="/portfolio/commissionWork/commissionWork8.png" className='w-full h-auto' alt="" />
                 <p className={`${grenzeGotisch.className} text-2xl`}>Final Illustration</p>
             </div>
 
@@ -121,7 +121,7 @@ export default function Commissions() {
 
                 </div>
                 <div className='mt-20 flex flex-col justify-center items-center'>
-                    <Image width={1200} height={600} src="/portfolio/commissionWork/commissionWork16.png" className='w-full h-[600px]' alt="" />
+                    <Image width={1200} height={600} src="/portfolio/commissionWork/commissionWork16.png" className='w-full h-auto' alt="" />
                     <p className={`${grenzeGotisch.className} text-2xl`}>Final Illustration</p>
                 </div>
             </div>
