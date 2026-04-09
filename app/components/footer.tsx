@@ -26,6 +26,7 @@ function Footer() {
                 <Link href={'https://www.behance.net/Pixerunii'}><img src="/footer/BehanceIcon.svg" className='w-10 h-auto' alt="" /></Link>
                 <img src="/footer/LinkedInIcon.svg" className='w-10 h-auto' alt="" />
               </div>
+              {/*test*/}
           </div>
         </div>
         <img src="/footer/footerFlower.svg" alt="" className='flex max-w-[30%] md:max-w-[10%] relative z-2 basis-[20%] max-h-[50%] scale-x-[-1]' />
