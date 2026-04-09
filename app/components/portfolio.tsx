@@ -30,7 +30,7 @@ function Portfolio() {
           </div>
         </Link>
         <Link href="/portfolio?project=2">
-          <div id='borderimg' className='card w-75 md:w-100 transition-all duration-300 ease-in-out hover:!scale-110 h-75 flex justify-center items-center bg-[url(/main/portfolioSection/mejaMakan.png)] flex flex-col justify-center items-center  bg-cover bg-center bg-no-repeat'>
+          <div id='borderimg' className='card w-75 mb-5 md:mb-0 md:w-100 transition-all duration-300 ease-in-out hover:!scale-110 h-75 flex justify-center items-center bg-[url(/main/portfolioSection/mejaMakan.png)] flex flex-col justify-center items-center  bg-cover bg-center bg-no-repeat'>
             <div className='flex flex-col relative w-full h-full p-3 justify-end items-start'>
               <div className='flex flex-col relative z-3'>
                 <p className='text-5xl '>Meja<br/>Makan</p>

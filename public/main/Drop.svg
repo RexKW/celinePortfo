@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 45.81 54.52">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-3 {
+        mask: url(#mask);
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="22.9" cy="27.26" fx="22.9" fy="27.26" r="25.18" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8ea9e"/>
+      <stop offset=".24" stop-color="#f7e9a6"/>
+      <stop offset=".62" stop-color="#f7e9be"/>
+      <stop offset="1" stop-color="#f7e9dc"/>
+    </radialGradient>
+    <mask id="mask" x="-36.89" y="-36.36" width="119" height="127" maskUnits="userSpaceOnUse">
+      <image width="119" height="127" transform="translate(-36.89 -36.36)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAAB/CAYAAADVal3nAAAACXBIWXMAAAsSAAALEgHS3X78AAAD1UlEQVR4nO3c4bKjIAyG4bBz7v+W2R+VNqVBRaUm9H1mOqfrrtbyGUT0rAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgS7p7B+6Sc876zyml6dri7+4d+LY61Jn9RLhGlcovZDxdV1TLOeetMGfskkVE/t29A6PkxfJeRB4Vq02a6dN0327rnJpSSta/mbF6p/pCa8HW4f3CaHmabrkn2N71o5riaG0FsxXq7N1z+C9yNNi19WcJOOyX0KHoS53eYM4eHJ6F/AIDAmmeciOHPM2A6kwIa2OpyAOtcEfliHPk3gCjVXGoyrXmiL/Z4NGqOEy4jYY9HWzZrj5G0qJjP1wK0c2MulzZs93Io+kwlXu1vQdM5Ap2H26r27xim70CFOsb9+EWRycpjO1kaxM755/fAvZeva7DHdB4ueoBys/dB0wdsGeuw62drNqcc367cb8E1b1Nfcx5rl63z1Bddb+1noNelnVvM+JzV6Eqt1PWg7Ezwer1yvbqDzq3q2O4DPdEY5VAP0Jd/nJ1gmKLWi0Zy9xxGW5hjEyzvJ59e75Xy6yq0ts7nESrW3ZatCLidIbKOk8uy5vh6W7XeH/mjlFzssP7c1iuK1fkEVB51dVTB1vev061KcnFB7AO0FmWH9yOlgtdJXWwVYUOafR6IKatDbI8cLdHeoR79Dp0wO609ifni87pI7itXA8DlbXeoSzzzO0510MRlGr1HmKL23DvbtDWpVUkbrtlkfuqt77NePZy6i5uK1fkvuotM1uRu2QRh+HePeJsTKCs7pPXrttduLUvT8pnPTreeynmtbrdh/stxlTi5irj9uYaPvuTpeGumBvu+bzqM1c/1/u8sojTytUDmeX9yCr5CLYMlgd+5le4DLdUweBieN737X30pr5U8spluCIfv5Z5afWWbTVuF3Y9LLes7zJlt+GK0S2qm/RHZVEjYuspjc0NeB0aG1weccpHWx4IpBlG74Bt7ca9R54rV2Rp9LVHZ7Iir/Oofpnrqe12PQFp7Y9X3sPd9Uipni60WOdWeYTak9KzcL2fawvXO1dsTTB0PhFx5Dtbpwf3bee+ckXWL430pEOjvVP12u29x4/THReh9rY1Uh00i/U2S1b9DNFuISq3sCpYvb/qEuVtIFbnGCVYkWCVW+Rs/ze7Rycj1GY/thdl8GQJt8OaNdCq5oetgJqzUy0RgxUJHu4iW+dFrV5mnENbI+7Q7RPqnNuQUkrJqry6Kqtu+7nMGHFf/psKdwj/BSz1ozLWpUyjYqdsDwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMCL/x4Vp10USiG+AAAAAElFTkSuQmCC"/>
+    </mask>
+    <linearGradient id="linear-gradient" x1="22.9" y1="0" x2="22.9" y2="54.52" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8ea9e"/>
+      <stop offset=".16" stop-color="#f4e495"/>
+      <stop offset=".41" stop-color="#ecd47d"/>
+      <stop offset=".72" stop-color="#ddbb57"/>
+      <stop offset="1" stop-color="#cfa22f"/>
+    </linearGradient>
+  </defs>
+  <g id="UI_PHOTOS" data-name="UI &amp;amp; PHOTOS">
+    <g>
+      <path class="cls-2" d="M28.37,0c0,.53.07.88-.01,1.19-1.28,4.62.98,7.47,4.74,9.6,7.47,4.24,11.89,10.46,12.63,19.2,1.02,12.13-8.13,23.11-20.45,24.4C12.94,55.68,1.69,46.86.2,34.77c-.65-5.28.35-10.22,2.82-14.89C7.93,10.62,19.1,1.8,28.37,0ZM3.17,27.33c-1.13,4.99-.49,9.66,2.08,14.04.28.47.88.85,1.42,1.07,5.37,2.13,10.79,2.69,16.16.04,8.92-4.4,13.35-11.79,14.18-21.55.36-4.18-.89-5.99-5.06-7.24-6.51,10.73-15.63,15.93-28.78,13.64ZM24.3,3.87C15.53,8.09,8.25,14.44,3.95,24.02c.67.42.87.6,1.1.68,7.85,2.66,20.07-2.95,24.06-11.92.2-.45-.08-1.27-.38-1.78-1.34-2.26-2.76-4.47-4.44-7.13ZM39.87,21.1c-.88,8.06-3.7,14.75-9.58,19.83-5.86,5.07-12.63,7.2-20.78,5.4,6.57,6.89,18.54,7.09,26.12.86,7.65-6.28,9.79-18.2,4.23-26.09Z"/>
+      <g class="cls-3">
+        <path class="cls-1" d="M28.37,0c0,.53.07.88-.01,1.19-1.28,4.62.98,7.47,4.74,9.6,7.47,4.24,11.89,10.46,12.63,19.2,1.02,12.13-8.13,23.11-20.45,24.4C12.94,55.68,1.69,46.86.2,34.77c-.65-5.28.35-10.22,2.82-14.89C7.93,10.62,19.1,1.8,28.37,0ZM3.17,27.33c-1.13,4.99-.49,9.66,2.08,14.04.28.47.88.85,1.42,1.07,5.37,2.13,10.79,2.69,16.16.04,8.92-4.4,13.35-11.79,14.18-21.55.36-4.18-.89-5.99-5.06-7.24-6.51,10.73-15.63,15.93-28.78,13.64ZM24.3,3.87C15.53,8.09,8.25,14.44,3.95,24.02c.67.42.87.6,1.1.68,7.85,2.66,20.07-2.95,24.06-11.92.2-.45-.08-1.27-.38-1.78-1.34-2.26-2.76-4.47-4.44-7.13ZM39.87,21.1c-.88,8.06-3.7,14.75-9.58,19.83-5.86,5.07-12.63,7.2-20.78,5.4,6.57,6.89,18.54,7.09,26.12.86,7.65-6.28,9.79-18.2,4.23-26.09Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

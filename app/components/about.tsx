@@ -18,10 +18,10 @@ function About() {
             <div className='flex w-full flex-row gap-5 mt-10  justify-center lg:justify-start'>
               <ul className='flex w-full flex-row gap-5 justify-center lg:justify-start'>
                 <li><img src="/main/AI.svg" className='w-10' alt="" /></li>
-                <li><img src="/main/AI.svg" className='w-10' alt="" /></li>
-                <li><img src="/main/AI.svg" className='w-10' alt="" /></li>
-                <li><img src="/main/AI.svg" className='w-10' alt="" /></li>
-                <li><img src="/main/AI.svg" className='w-10' alt="" /></li>
+                <li><img src="/main/PS.svg" className='w-10' alt="" /></li>
+                <li><img src="/main/AE.svg" className='w-10' alt="" /></li>
+                <li><img src="/main/P.svg" className='w-10' alt="" /></li>
+                <li><img src="/main/Drop.svg" className='w-8' alt="" /></li>
               </ul>
             </div>
           </div>
