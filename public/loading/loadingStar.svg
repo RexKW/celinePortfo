@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 61.79 61.79">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f8ea9e;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        mask: url(#mask);
+      }
+
+      .cls-2 {
+        fill: #a8b9cf;
+      }
+    </style>
+    <mask id="mask" x="-36.98" y="-36.98" width="135" height="135" maskUnits="userSpaceOnUse">
+      <image width="135" height="135" transform="translate(-36.98 -36.98)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIcAAACHCAYAAAA850oKAAAACXBIWXMAAAsSAAALEgHS3X78AAADBUlEQVR4nO3d0W7bMAyFYXro+7+ydpFoo1lRtlskpnL+DxiCxd1Ay6e0YtmtGQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADU0e4uoJLt7gIK8cFgXIxB6EYdQ35s/txdQGHypxjCQQhS6q3zTDBkx4jOcUy2syiHY3fQW5PNQEo5HGb2CEUWDPe+ZHJUw/HvYG/btnvtgYivilTDMRUDoRoQ2XBkAdi2bddN+p8mmJCvuwu4QTP7fxrZbZgERpFc5/jpKUMxIHLhiBNPfxrx2/3fZ59oPpnet4ONpw89BDObWPuQ6xyttVPzjeTfSrUPuXCY6X40vUouHHGOgZzcR1m6xnlynQPnEQ6kCMcFfJQFnj7mOyFegzhzUevVVu80KxefHvm7Q2E2DudqYVmqWLN9h/DrJBU6ReRrCrlYYtxXus4xXGqvFgiz8eJeCEkvunRIShf39O3o+07hX/32CrLOEeotewyqd47pHeKjAa8SDLPT946U7SLlCnKmHaOrFogjB3PSUsej6nWO4dGOd4qbrXEr3wrzpJGK4Tg9cj4sFQc8u8OscpC9qlVOj3T2KaBiQLzR5Nlvfnc9Ryp2DrPHQF0arErBiF3ioGtc3td3KVlUML0SWrljjCbP8UveWtBFVTuH920A46mk0jk8zoNGk2gr3C288gUGLXaLSp0jXhmN79ti471UsV5rrWUHo4IV11KiJYtOHD450FdFf/qIgV9VHf0fz80fM6YfsyNn/fbZk9WW3X9jhQkpbkI4kCIcSBEOpAgHUoQDKcKBFOFASjYcZ69lJQtnEvT22K5dJQ2LfFLjJds5zMbdYPQTjVV/4IveHj8cPgsT3zPT6xxSO+v1Jf/RvRejgPTN763yXtUfanq5WTOID+6/vJhipOccmYq3H95Beu+zu8kGj1lKjpP8aaXLjr9oLsxMvHOY7btHQnaMZHc8mF0Ukx0jJqRzssEwE9/5IHYPxgY7zUR/EyQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAev4CIkQ+p4NtcAEAAAAASUVORK5CYII="/>
+    </mask>
+  </defs>
+  <g id="ORNAMENTS">
+    <g>
+      <path class="cls-2" d="M0,31.21c6.68,6.54,16.07,8.6,24.47,6.25-2.18,8.45.07,17.79,6.75,24.33,6.54-6.68,8.6-16.07,6.25-24.47,8.45,2.18,17.79-.07,24.33-6.75-6.68-6.54-16.07-8.6-24.47-6.25,2.18-8.45-.07-17.79-6.75-24.33-6.54,6.68-8.6,16.06-6.25,24.47-8.45-2.18-17.79.07-24.33,6.75Z"/>
+      <g class="cls-3">
+        <path class="cls-1" d="M0,31.21c6.68,6.54,16.07,8.6,24.47,6.25-2.18,8.45.07,17.79,6.75,24.33,6.54-6.68,8.6-16.07,6.25-24.47,8.45,2.18,17.79-.07,24.33-6.75-6.68-6.54-16.07-8.6-24.47-6.25,2.18-8.45-.07-17.79-6.75-24.33-6.54,6.68-8.6,16.06-6.25,24.47-8.45-2.18-17.79.07-24.33,6.75Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
