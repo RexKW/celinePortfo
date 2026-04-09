@@ -16,7 +16,7 @@ function Footer() {
             <li className='flex flex-row gap-3'><img src="/main/gmailIcon.svg" className='w-6' alt="" /><p>celineenam@gmail.com</p></li>
             <li className='flex flex-row gap-3'><img src="/main/phoneIcon.svg" className='w-6' alt="" /><p>+62 813 333 7231</p></li>
           </ul>
-          {/* <div className='flex flex-col mt-10 justify-center items-center md:flex-row gap-5'>
+          <div className='flex flex-col mt-10 justify-center items-center md:flex-row gap-5'>
               <div className='flex flex-row justify-center items-center gap-5'>
                 <Link href={'https://vgen.co/Pixerunii'}><img src="/footer/vgenIcon.svg" className='w-10 h-auto' alt="" /></Link>
                 <Link href={'https://x.com/pixerunii'}><img src="/footer/XIcon.svg" className='w-10 h-auto' alt="" /></Link>
@@ -26,7 +26,7 @@ function Footer() {
                 <Link href={'https://www.behance.net/Pixerunii'}><img src="/footer/BehanceIcon.svg" className='w-10 h-auto' alt="" /></Link>
                 <img src="/footer/LinkedInIcon.svg" className='w-10 h-auto' alt="" />
               </div>
-          </div> */}
+          </div>
         </div>
         <img src="/footer/footerFlower.svg" alt="" className='flex max-w-[30%] md:max-w-[10%] relative z-2 basis-[20%] max-h-[50%] scale-x-[-1]' />
       </div>
