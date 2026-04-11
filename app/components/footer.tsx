@@ -12,7 +12,7 @@ function Footer() {
         <div className='flex flex-row w-full h-full justify-center items-center'>
         <img src="/footer/footerFlower.svg" alt="" className='flex max-w-[30%] md:max-w-[10%] relative z-2 basis-[20%] max-h-[50%] ' />
         <div className='flex flex-col relative items-center lg:px-20 justify-center z-2'>
-          <p className='hidden text-3xl md:flex md:text-6xl text-center'>Interested in <br />working together?</p>
+          <p className={`hidden text-3xl ${pirataOne.className} md:flex md:text-6xl text-center`}>Interested in <br />working together?</p>
           <ul className='flex flex-col items-center mt-5 gap-5'>
             <li className='flex flex-row gap-3'><img src="/main/gmailIcon.svg" className='w-6' alt="" /><p className='text-2xl'>celineenam@gmail.com</p></li>
             <li className='flex flex-row gap-3'><img src="/main/phoneIcon.svg" className='w-6' alt="" /><p className='text-2xl'>+62 813 333 7231</p></li>
