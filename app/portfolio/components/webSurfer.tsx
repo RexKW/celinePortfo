@@ -118,9 +118,9 @@ export default function WebSurfer() {
             </div>
           </div>
         </FadeInContainer>
-                    <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[-5%] ' alt="" />
-                    <Image width={300} height={100} src="/portfolio/portfolioBottomBorder.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-0 left-[50%] translate-x-[-50%]' alt="" />
-                    <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[-5%] scale-x-[-1]' alt="" />
+                    <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-0  right-0' alt="" />
+                    <Image width={300} height={100} src="/portfolio/portfolioBottomBorder.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[1%] left-[50%] translate-x-[-50%]' alt="" />
+                    <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-0 left-0 scale-x-[-1]' alt="" />
       </div>
 
     </div>

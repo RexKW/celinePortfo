@@ -72,9 +72,9 @@ export default function Commissions() {
                     <Image width={1200} height={600} src="/portfolio/commissionWork/commissionWork8.png" className='w-full h-auto' alt="" />
                     <p className={`${grenzeGotisch.className} text-2xl`}>Final Illustration</p>
                 </FadeInContainer>
-                            <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[-5%] ' alt="" />
-                            <Image width={300} height={100} src="/portfolio/portfolioBottomBorder.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-0 left-[50%] translate-x-[-50%]' alt="" />
-                            <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[-5%] scale-x-[-1]' alt="" />
+                            <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-0 left-0 ' alt="" />
+                            <Image width={300} height={100} src="/portfolio/portfolioBottomBorder.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[1%] left-[50%] translate-x-[-50%]' alt="" />
+                            <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-0 right-0 scale-x-[-1]' alt="" />
             </div>
 
 
