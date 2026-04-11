@@ -169,13 +169,13 @@ export default function ChromaClub() {
               <div className='flex flex-col basis-1/2 justify-center items-center'>
                 <FadeInContainer>
                   <p className={`text-center text-2xl ${grenzeGotisch.className}`}>Introduction Poster</p>
-                  <img src="/portfolio/chromaClub/chromaClubSupportingMaterials1.png" className='w-auto h-[600px]' alt="" />
+                  <img src="/portfolio/chromaClub/chromaClubSupportingMaterials1.png" className='w-[300px] lg:w-[600px] h-auto' alt="" />
                 </FadeInContainer>
               </div>
               <div className='flex flex-col basis-1/2 justify-center items-center'>
                 <FadeInContainer>
                   <p className={`text-center text-2xl ${grenzeGotisch.className}`}>Instagram Post</p>
-                  <img src="/portfolio/chromaClub/chromaClubSupportingMaterials2.png" className='w-auto h-[600px]' alt="" />
+                  <img src="/portfolio/chromaClub/chromaClubSupportingMaterials2.png" className='w-[300px] h-auto' alt="" />
                 </FadeInContainer>
               </div>
 

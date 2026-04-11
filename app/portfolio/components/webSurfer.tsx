@@ -74,7 +74,7 @@ export default function WebSurfer() {
 
 
       <div>
-        <FadeInContainer className='flex flex-col mt-20'>
+        <FadeInContainer className='flex flex-col mt-5'>
           <p className='text-5xl mb-5'>Final Lineup</p>
           <div className='hidden w-full lg:flex lg:flex-col gap-5'>
             <Image width={1200} height={300} src="/portfolio/webSurfers/webSurfers9.png" alt="" className='w-full h-auto' />
@@ -94,7 +94,7 @@ export default function WebSurfer() {
 
       <div>
         <FadeInContainer className='flex flex-col mt-20'>
-          <p className='text-5xl'>Final Lineup</p>
+          <p className='text-5xl'>Environmental Concepts</p>
           <div className='flex grid grid-cols-1 lg:grid-cols-2 gap-2 lg:gap-5'>
             <Image width={600} height={300} src="/portfolio/webSurfers/webSurfers11.png" alt="" className='w-full h-auto' />
             <Image width={600} height={300} src="/portfolio/webSurfers/webSurfers12.png" alt="" className='w-full h-auto' />
@@ -118,9 +118,9 @@ export default function WebSurfer() {
             </div>
           </div>
         </FadeInContainer>
-                    <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[-5%]  right-[-15%]' alt="" />
+                    <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[-5%]  right-[-20%]' alt="" />
                     <Image width={300} height={100} src="/portfolio/portfolioBottomBorder.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[1%] left-[50%] translate-x-[-50%]' alt="" />
-                    <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[-5%] left-[-15%] scale-x-[-1]' alt="" />
+                    <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[-5%] left-[-20%] scale-x-[-1]' alt="" />
       </div>
 
     </div>
