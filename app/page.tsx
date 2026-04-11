@@ -5,6 +5,7 @@ import Portfolio from "./components/portfolio";
 import Footer from "./components/footer";
 import PageWrapper from "./components/pageWrapper";
 import Grainient from '../components/Grainient';
+import { grenzeGotisch } from "./fonts";
 
 
 
@@ -13,7 +14,7 @@ export default function Home() {
 
   return (
     <PageWrapper>
-      <div className="flex text-white overflow-hidden font-[var(--font-grenze-gotisch)]  relative flex-col min-h-screen items-center justify-center  bg-[#f8f5f2] bg-[radial-gradient(circle_at_0%_0%,#963d29,transparent_65%),radial-gradient(circle_at_100%_0%,#702808,transparent_65%),radial-gradient(circle_at_50%_50%,#9c501c,transparent_65%),radial-gradient(circle_at_100%_50%,#9c501c,transparent_65%),radial-gradient(circle_at_0%_100%,#702808,transparent_65%),radial-gradient(circle_at_100%_100%,#63291b,transparent_65%)] font-sans dark:bg-black">
+      <div className={`flex text-white overflow-hidden ${grenzeGotisch.className}  relative flex-col min-h-screen items-center justify-center  bg-[#f8f5f2] bg-[radial-gradient(circle_at_0%_0%,#963d29,transparent_65%),radial-gradient(circle_at_100%_0%,#702808,transparent_65%),radial-gradient(circle_at_50%_50%,#9c501c,transparent_65%),radial-gradient(circle_at_100%_50%,#9c501c,transparent_65%),radial-gradient(circle_at_0%_100%,#702808,transparent_65%),radial-gradient(circle_at_100%_100%,#63291b,transparent_65%)] font-sans dark:bg-black`}>
         <Grainient
             color1="#963D29"
             color2="#A14D24"

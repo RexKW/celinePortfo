@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import React from 'react'
+import { pirataOne } from '../fonts'
 
 function Footer() {
   return (
@@ -7,7 +8,7 @@ function Footer() {
       <img src="/footer/FooterStars.svg" className='absolute  w-full h-full object-cover z-0 left-0' alt="" />
       <img src="/footer/footerGrain_1.png" className='absolute w-full h-full z-1 left-0 mix-blend-difference ' alt="" />
       <div className='flex flex-col h-full w-full'>
-        <p className='text-4xl md:hidden text-center mb-5'>Interested in <br/>working together?</p>
+        <p className={`text-4xl ${pirataOne.className} md:hidden text-center mb-5`}>Interested in <br/>working together?</p>
         <div className='flex flex-row w-full h-full justify-center items-center'>
         <img src="/footer/footerFlower.svg" alt="" className='flex max-w-[30%] md:max-w-[10%] relative z-2 basis-[20%] max-h-[50%] ' />
         <div className='flex flex-col relative items-center lg:px-20 justify-center z-2'>
