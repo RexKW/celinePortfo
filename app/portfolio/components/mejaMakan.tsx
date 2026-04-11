@@ -75,7 +75,7 @@ export default function MejaMakan() {
           </div>
         </FadeInContainer>
       </div>
-      <div className='flex flex-col relative gap-5 lg:flex-row mt-10 pb-20'>
+      <div className='flex flex- gap-5 lg:flex-row mt-10 pb-20'>
         <div className='flex flex-col basis-1/2 gap-5'>
           <FadeInContainer>
             <Image width={600} height={400}
@@ -103,9 +103,9 @@ export default function MejaMakan() {
             </p>
           </FadeInContainer>
         </div>
-        <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[-5%] right-[-20%]' alt="" />
+        <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[-5%] ' alt="" />
         <Image width={300} height={100} src="/portfolio/portfolioBottomBorder.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-0 left-[50%] translate-x-[-50%]' alt="" />
-        <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[-5%] left-[-20%] scale-x-[-1]' alt="" />
+        <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[-5%] scale-x-[-1]' alt="" />
       </div>
     </div>
   )

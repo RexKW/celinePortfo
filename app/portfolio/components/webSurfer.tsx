@@ -105,7 +105,7 @@ export default function WebSurfer() {
           </div>
         </FadeInContainer>
       </div>
-      <div className='relative w-full'>
+      <div className='rel'>
         <FadeInContainer className='flex flex-col mt-20 pb-20'>
           <p className='text-5xl'>Supporting Materials</p>
           <div className='flex flex-col md:flex-row gap-5'>
@@ -118,9 +118,9 @@ export default function WebSurfer() {
             </div>
           </div>
         </FadeInContainer>
-                    <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[-5%] right-[-20%]' alt="" />
+                    <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[-5%] ' alt="" />
                     <Image width={300} height={100} src="/portfolio/portfolioBottomBorder.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-0 left-[50%] translate-x-[-50%]' alt="" />
-                    <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[-5%] left-[-20%] scale-x-[-1]' alt="" />
+                    <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[-5%] scale-x-[-1]' alt="" />
       </div>
 
     </div>

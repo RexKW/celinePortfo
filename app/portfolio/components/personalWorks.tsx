@@ -47,20 +47,20 @@ export default function PersonalWorks() {
                 <Image width={600} height={300} src="/portfolio/personalWorks/personalWorks3.png" className='w-full h-auto bg-white order-2' alt="" />
                 <Image width={600} height={300} src="/portfolio/personalWorks/personalWorks4.png" className='w-full h-auto bg-white order-3 md:order-4' alt="" />
                 <div className='order-4 md:order-3 w-[600px] flex justify-start w-full md:pr-20 items-end'>
-                    <p className='text-2xl text-justify'>Through their journeys, relationships, and personal loss, the story explores themes of humanity, freedom, and the meaning of moving forward despite the weight of the past. <br /><br />Many of my illustrations are scences from this project, focusing on character emotion,  interactions, and the histories of the people within this world.</p>
+                    <p className={`text-2xl text-justify ${grenzeGotisch.className}`}>Through their journeys, relationships, and personal loss, the story explores themes of humanity, freedom, and the meaning of moving forward despite the weight of the past. <br /><br />Many of my illustrations are scences from this project, focusing on character emotion,  interactions, and the histories of the people within this world.</p>
                 </div>
                 </FadeInContainer>
             </div>
-            <div className='pb-20 relative w-full'>
+            <div className='pb-20 rel'>
                 <FadeInContainer className='flex grid grid-cols-1  justify-items-center w-ful1 md:grid-cols-2 gap-10 mt-20'>
                 <Image width={600} height={300} src="/portfolio/personalWorks/personalWorks5.png" className='w-full h-auto order-1' alt="" />
                 <Image width={600} height={300} src="/portfolio/personalWorks/personalWorks6.png" className='w-full h-auto order-2' alt="" />
                 <Image width={600} height={300} src="/portfolio/personalWorks/personalWorks7.png" className='w-full h-auto order-3' alt="" />
                 <Image width={600} height={300} src="/portfolio/personalWorks/personalWorks8.png" className='w-full h-auto order-4' alt="" />
                 </FadeInContainer>
-                            <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[-5%] right-[-20%]' alt="" />
+                            <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[-5%] ' alt="" />
                             <Image width={300} height={100} src="/portfolio/portfolioBottomBorder.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-0 left-[50%] translate-x-[-50%]' alt="" />
-                            <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[-5%] left-[-20%] scale-x-[-1]' alt="" />
+                            <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[-5%] scale-x-[-1]' alt="" />
             </div>
         </div>
     )
