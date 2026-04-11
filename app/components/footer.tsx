@@ -25,7 +25,7 @@ function Footer() {
               </div>
               <div className='flex flex-row justify-center items-center gap-5'>
                 <Link href={'https://www.behance.net/Pixerunii'}><img src="/footer/BehanceIcon.svg" className='w-10 h-auto' alt="" /></Link>
-                <img src="/footer/LinkedInIcon.svg" className='w-10 h-auto' alt="" />
+                <Link href={'https://www.linkedin.com/in/celine-njotowijoyo-429761246/'}><img src="/footer/LinkedInIcon.svg" className='w-10 h-auto' alt="" /></Link>
               </div>
           </div>
         </div>

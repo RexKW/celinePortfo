@@ -75,6 +75,7 @@ function Portfolio() {
       <img src="/main/portfolioLeafTopCorner.svg" className='w-[20%] hidden lg:absolute lg:flex lg:w-[5%] z-2 top-5 -rotate-20 left-0 lg:left-10' alt="" />
       <img src="/main/portfolioLeafTopCorner.svg" className='w-[20%] hidden lg:absolute lg:flex lg:w-[5%] z-2 top-5 right-0 rotate-20  lg:right-10 scale-x-[-1]' alt="" />
       <img src="/main/portfolioFlowerBottomCorner.svg" className='w-[20%] hidden lg:absolute lg:flex lg:w-[15%] z-2 bottom-5 right-0 lg:right-10 scale-x-[-1]' alt="" />
+      <img src="/main/portfolioFlowerBottomCorner.svg" className='w-[20%] hidden lg:absolute lg:flex lg:w-[15%] z-2 bottom-5 left-0 lg:left-10' alt="" />
     </div>
   )
 }
