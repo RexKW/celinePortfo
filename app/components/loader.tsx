@@ -62,12 +62,12 @@ export default function Loader({ onFinish }: { onFinish: () => void }) {
             <div className="absolute inset-0 flex">
                 <img
                     ref={leftCurtainRef}
-                    src="/loading/curtainLoading.png"
+                    src="/loading/curtainLoading.jpg"
                     className="h-full w-1/2 object-cover"
                 />
                 <img
                     ref={rightCurtainRef}
-                    src="/loading/curtainLoading.png"
+                    src="/loading/curtainLoading.jpg"
                     className="h-full w-1/2 object-cover scale-x-[-1]"
                 />
             </div>

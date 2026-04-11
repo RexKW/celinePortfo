@@ -12,7 +12,7 @@ export default class NavbarPorfo extends Component {
         <ul className="flex font-[var(--font-pirata-one)] text-xl md:text-3xl flex-row gap-10 relative z-2  p-5 md:pr-20">
           <li><Link href='/#about'>ABOUT</Link></li>
           <li><Link href='/#portfolio'>PORTFOLIO</Link></li>
-          <li><Link href='/#contact'>CONTACTS</Link></li>
+          <li><Link href='#contact'>CONTACTS</Link></li>
         </ul>
       </nav>
     )

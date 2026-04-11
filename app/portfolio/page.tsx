@@ -6,16 +6,14 @@ import NavbarMain from "../components/navbarMain"
 import Footer from "../components/footer"
 import Image from "next/image"
 import NavbarPorfo from "../components/navbarPortfo"
-import ChromaClub from "../components/portfolioLayouts/chromaClub"
-import PersonalWorks from "../components/portfolioLayouts/personalWorks"
-import Commissions from "../components/portfolioLayouts/commission"
-import WebSurfer from "../components/portfolioLayouts/webSurfer"
-import MejaMakan from "../components/portfolioLayouts/mejaMakan"
-import PageWrapper from "./pageWrapper"
+import ChromaClub from "./components/chromaClub"
+import PersonalWorks from "./components/personalWorks"
+import Commissions from "./components/commission"
+import WebSurfer from "./components/webSurfer"
+import MejaMakan from "./components/mejaMakan"
+import PageWrapper from "../components/pageWrapper"
+import Grainient from "@/components/Grainient"
 
-// ---------------------------------------------------------
-// 1. THE FEATURE COMPONENT (Extract the dynamic logic here)
-// ---------------------------------------------------------
 function PortfolioProjectViewer() {
   const searchParams = useSearchParams()
   const router = useRouter()
@@ -76,15 +74,37 @@ function PortfolioProjectViewer() {
   )
 }
 
-// ---------------------------------------------------------
-// 2. THE PAGE COMPONENT (Statically rendered shell)
-// ---------------------------------------------------------
+
 export default function PortfolioPage() {
   return (
     <PageWrapper>
-      <div className="min-h-full text-white overflow-x-hidden bg-[radial-gradient(circle_at_0%_0%,#162433,transparent_85%),radial-gradient(circle_at_100%_50%,#113a5c,transparent_100%),radial-gradient(circle_at_50%_100%,#486664,transparent_85%)] flex flex-col items-center justify-center">
+      <div className="min-h-full relative text-white overflow-x-hidden bg-[radial-gradient(circle_at_0%_0%,#162433,transparent_85%),radial-gradient(circle_at_100%_50%,#113a5c,transparent_100%),radial-gradient(circle_at_50%_100%,#486664,transparent_85%)] flex flex-col items-center justify-center">
         <NavbarPorfo />
-        
+        <Grainient
+            color1="#162433"
+            color2="#486664"
+            color3="#113A5C"
+            timeSpeed={0.6}
+            colorBalance={0.05}
+            warpStrength={2}
+            warpFrequency={4}
+            warpSpeed={3}
+            warpAmplitude={80}
+            blendAngle={0}
+            blendSoftness={0.05}
+            rotationAmount={0}
+            noiseScale={2}
+            grainAmount={0.1}
+            grainScale={2}
+            grainAnimated={false}
+            contrast={1.5}
+            gamma={1}
+            saturation={1}
+            centerX={0}
+            centerY={0}
+            zoom={0.9}
+            className="absolute z-0 inset-0 w-full h-full "
+          />
         <div className="min-h-[200vh] w-full flex relative pt-30 md:pt-50 bg-fixed bg-[length:100vw] bg-start bg-no-repeat justify-start items-center flex-col">
           <Image
             src="/portfolio/backdropGrainPortfolio.png"
@@ -92,10 +112,17 @@ export default function PortfolioPage() {
             fill
             className="object-cover opacity-[25%] mix-blend-difference z-3 pointer-events-none"
           />
-          <div className="absolute inset-0 z-0 bg-[url(/portfolio/portfoBackdrop.svg)] bg-[length:1200px] bg-repeat"></div>
+          <div className="absolute inset-0 z-0 bg-[url(/portfolio/portfoBackdrop.svg)] opacity-[50%] bg-[length:1200px] bg-repeat">
+                </div>
 
-          {/* This Suspense boundary makes Vercel happy! */}
-          <Suspense fallback={<div className="min-h-[50vh] flex items-center justify-center">Loading project...</div>}>
+          <Suspense fallback={<div className="min-h-screen flex items-center justify-center"><img
+                    src="/loading/curtainLoading.jpg"
+                    className="h-full w-1/2 object-cover"
+                />
+                <img
+                    src="/loading/curtainLoading.jpg"
+                    className="h-full w-1/2 object-cover scale-x-[-1]"
+                /></div>}>
             <PortfolioProjectViewer />
           </Suspense>
 

@@ -1,8 +1,10 @@
 import type { Metadata } from "next";
-import { Grenze_Gotisch, Pirata_One } from "next/font/google";
+import { Grenze_Gotisch, Pirata_One, Geist } from "next/font/google";
 import "./globals.css";
 import { grenzeGotisch, pirataOne } from "./fonts";
+import { cn } from "@/lib/utils";
 
+const geist = Geist({subsets:['latin'],variable:'--font-sans'});
 
 export const metadata: Metadata = {
   title: "Pixerunii Portfolio",
@@ -15,7 +17,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" className={cn("font-sans", geist.variable)}>
       <body
         className={`${grenzeGotisch.className} ${pirataOne.className} text-white antialiased`}
       >
