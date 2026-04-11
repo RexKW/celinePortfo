@@ -105,7 +105,7 @@ export default function WebSurfer() {
           </div>
         </FadeInContainer>
       </div>
-      <div className='relative'>
+      <div className='relative w-full'>
         <FadeInContainer className='flex flex-col mt-20 pb-20'>
           <p className='text-5xl'>Supporting Materials</p>
           <div className='flex flex-col md:flex-row gap-5'>

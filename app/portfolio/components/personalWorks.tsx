@@ -51,7 +51,7 @@ export default function PersonalWorks() {
                 </div>
                 </FadeInContainer>
             </div>
-            <div className='pb-20 relative'>
+            <div className='pb-20 relative w-full'>
                 <FadeInContainer className='flex grid grid-cols-1  justify-items-center w-ful1 md:grid-cols-2 gap-10 mt-20'>
                 <Image width={600} height={300} src="/portfolio/personalWorks/personalWorks5.png" className='w-full h-auto order-1' alt="" />
                 <Image width={600} height={300} src="/portfolio/personalWorks/personalWorks6.png" className='w-full h-auto order-2' alt="" />

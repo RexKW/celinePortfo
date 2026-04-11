@@ -10,9 +10,9 @@ export default function MejaMakan() {
         <FadeInContainer className='flex flex-col justify-between w-full items-center gap-2 md:flex-row md:items-start'>
           {/* Title */}
           <div className='order-1 lg:hidden flex flex-col items-center'>
-              <p className='text-5xl text-center lg:text-start'>Teh Botol Sosro
-                Design Competition</p>
-              <p className={`${grenzeGotisch.className} text-2xl`}>Packaging Design</p>
+            <p className='text-5xl text-center lg:text-start'>Teh Botol Sosro
+              Design Competition</p>
+            <p className={`${grenzeGotisch.className} text-2xl`}>Packaging Design</p>
 
           </div>
 
@@ -22,19 +22,19 @@ export default function MejaMakan() {
             {/* Title (desktop only) */}
             <div className='hidden lg:flex flex-col'>
 
-                <p className='text-5xl text-center lg:text-start '>Teh Botol Sosro<br />
-                  Design Competition</p>
-                <p className={`${grenzeGotisch.className} text-2xl`}>Packaging Design</p>
+              <p className='text-5xl text-center lg:text-start '>Teh Botol Sosro<br />
+                Design Competition</p>
+              <p className={`${grenzeGotisch.className} text-2xl`}>Packaging Design</p>
 
             </div>
 
-  
-              {/* Description */}
-              <p className={`mt-2 ${grenzeGotisch.className} text-justify text-2xl`}>
 
-                <br />
-                This illustration was created for the Teh Botol Sosro 2026 design competition: Kembali ke Tradisi Asli Indonesia, with the overarching theme of Indonesian values, traditions, and cultural heritage.
-              </p>
+            {/* Description */}
+            <p className={`mt-2 ${grenzeGotisch.className} text-justify text-2xl`}>
+
+              <br />
+              This illustration was created for the Teh Botol Sosro 2026 design competition: Kembali ke Tradisi Asli Indonesia, with the overarching theme of Indonesian values, traditions, and cultural heritage.
+            </p>
 
           </div>
 
@@ -75,7 +75,7 @@ export default function MejaMakan() {
           </div>
         </FadeInContainer>
       </div>
-      <div className='flex flex-col gap-5 lg:flex-row mt-10 pb-20'>
+      <div className='flex flex-col relative gap-5 lg:flex-row mt-10 pb-20'>
         <div className='flex flex-col basis-1/2 gap-5'>
           <FadeInContainer>
             <Image width={600} height={400}
@@ -103,9 +103,9 @@ export default function MejaMakan() {
             </p>
           </FadeInContainer>
         </div>
-                    <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[-5%] right-[-20%]' alt="" />
-                    <Image width={300} height={100} src="/portfolio/portfolioBottomBorder.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-0 left-[50%] translate-x-[-50%]' alt="" />
-                    <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[-5%] left-[-20%] scale-x-[-1]' alt="" />
+        <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[-5%] right-[-20%]' alt="" />
+        <Image width={300} height={100} src="/portfolio/portfolioBottomBorder.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-0 left-[50%] translate-x-[-50%]' alt="" />
+        <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[-5%] left-[-20%] scale-x-[-1]' alt="" />
       </div>
     </div>
   )
