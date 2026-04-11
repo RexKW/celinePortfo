@@ -78,7 +78,7 @@ function PortfolioProjectViewer() {
 export default function PortfolioPage() {
   return (
     <PageWrapper>
-      <div className="min-h-full relative text-white overflow-x-hidden bg-[radial-gradient(circle_at_0%_0%,#162433,transparent_85%),radial-gradient(circle_at_100%_50%,#113a5c,transparent_100%),radial-gradient(circle_at_50%_100%,#486664,transparent_85%)] flex flex-col items-center justify-center">
+      <div className="min-h-full relative bg-black text-white overflow-x-hidden bg-[radial-gradient(circle_at_0%_0%,#162433,transparent_100%),radial-gradient(circle_at_100%_50%,#113a5c,transparent_100%),radial-gradient(circle_at_50%_100%,#486664,transparent_100%)] flex flex-col items-center justify-center">
         <NavbarPorfo />
         {/* <Grainient
             color1="#162433"
@@ -112,7 +112,7 @@ export default function PortfolioPage() {
             fill
             className="object-cover opacity-[25%] mix-blend-difference z-3 pointer-events-none"
           />
-          <div className="absolute inset-0 z-0 bg-[url(/portfolio/portfoBackdrop.svg)] opacity-[50%] bg-[length:1200px] bg-repeat">
+          <div className="absolute inset-0 z-0 bg-[url(/portfolio/portfoBackdrop.svg)] bg-[length:1200px] bg-repeat">
                 </div>
 
           <Suspense fallback={<div className="min-h-screen flex items-center justify-center"><img
