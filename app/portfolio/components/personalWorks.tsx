@@ -58,9 +58,9 @@ export default function PersonalWorks() {
                 <Image width={600} height={300} src="/portfolio/personalWorks/personalWorks7.png" className='w-full h-auto order-3' alt="" />
                 <Image width={600} height={300} src="/portfolio/personalWorks/personalWorks8.png" className='w-full h-auto order-4' alt="" />
                 </FadeInContainer>
-                            <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-0  right-0' alt="" />
-                            <Image width={300} height={100} src="/portfolio/portfolioBottomBorder.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[1%] left-[50%] translate-x-[-50%]' alt="" />
-                            <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-0 scale-x-[-1] left-0' alt="" />
+                            <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[20%] h-auto absolute bottom-0  right-0' alt="" />
+                            <Image width={300} height={100} src="/portfolio/portfolioBottomBorder.svg" className='w-[55%] lg:w-[20%] h-auto absolute bottom-[1%] left-[50%] translate-x-[-50%]' alt="" />
+                            <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[20%] h-auto absolute bottom-0 scale-x-[-1] left-0' alt="" />
             </div>
         </div>
     )

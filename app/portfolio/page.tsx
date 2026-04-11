@@ -21,7 +21,7 @@ function PortfolioProjectViewer() {
   const projectParam = searchParams.get("project")
 
   const projects = [
-    { title: "Websurfer" },
+    { title: "WebSurfers" },
     { title: "Chroma Club" },
     { title: "Meja Makan" },
     { title: "Personal Works" },

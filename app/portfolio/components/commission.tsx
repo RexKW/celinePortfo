@@ -67,14 +67,12 @@ export default function Commissions() {
                 </FadeInContainer>
             </div>
 
-            <div className='pb-20 relative'>
+            <div className='relative'>
                 <FadeInContainer className='mt-20 flex flex-col justify-center items-center'>
                     <Image width={1200} height={600} src="/portfolio/commissionWork/commissionWork8.png" className='w-full h-auto' alt="" />
                     <p className={`${grenzeGotisch.className} text-2xl`}>Final Illustration</p>
                 </FadeInContainer>
-                            <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-0 right-0 ' alt="" />
-                            <Image width={300} height={100} src="/portfolio/portfolioBottomBorder.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[1%] left-[50%] translate-x-[-50%]' alt="" />
-                            <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-0 left-0 scale-x-[-1]' alt="" />
+
             </div>
 
 
@@ -132,11 +130,14 @@ export default function Commissions() {
                         </div>
                     </FadeInContainer>
                 </div>
-                <div>
+                <div className='relative pb-20'>
                     <FadeInContainer className='mt-20 flex flex-col justify-center items-center'>
                         <Image width={1200} height={600} src="/portfolio/commissionWork/commissionWork16.png" className='w-full h-auto' alt="" />
                         <p className={`${grenzeGotisch.className} text-2xl`}>Final Illustration</p>
                     </FadeInContainer>
+                                                <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[-5%] right-[-15%] ' alt="" />
+                            <Image width={300} height={100} src="/portfolio/portfolioBottomBorder.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[1%] left-[50%] translate-x-[-50%]' alt="" />
+                            <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[-5%] left-[-15%] scale-x-[-1]' alt="" />
                 </div>
             </div>
 
