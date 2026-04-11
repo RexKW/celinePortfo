@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import React from 'react'
-import { pirataOne } from '../fonts'
+import { grenzeGotisch, pirataOne } from '../fonts'
 
 function Footer() {
   return (
@@ -14,8 +14,8 @@ function Footer() {
         <div className='flex flex-col relative items-center lg:px-20 justify-center z-2'>
           <p className={`hidden text-3xl ${pirataOne.className} md:flex md:text-6xl text-center`}>Interested in <br />working together?</p>
           <ul className='flex flex-col items-center mt-5 gap-5'>
-            <li className='flex flex-row gap-3'><img src="/main/gmailIcon.svg" className='w-6' alt="" /><p className='text-2xl'>celineenam@gmail.com</p></li>
-            <li className='flex flex-row gap-3'><img src="/main/phoneIcon.svg" className='w-6' alt="" /><p className='text-2xl'>+62 813 333 7231</p></li>
+            <li className='flex flex-row gap-3'><img src="/main/gmailIcon.svg" className='w-6' alt="" /><p className={`text-2xl ${grenzeGotisch.className}`}>celineenam@gmail.com</p></li>
+            <li className='flex flex-row gap-3'><img src="/main/phoneIcon.svg" className='w-6' alt="" /><p className={`text-2xl ${grenzeGotisch.className}`}>+62 813 333 7231</p></li>
           </ul>
           <div className='flex flex-col mt-10 justify-center items-center md:flex-row gap-5'>
               <div className='flex flex-row justify-center items-center gap-5'>

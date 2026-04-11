@@ -80,7 +80,7 @@ export default function PortfolioPage() {
     <PageWrapper>
       <div className="min-h-full relative text-white overflow-x-hidden bg-[radial-gradient(circle_at_0%_0%,#162433,transparent_85%),radial-gradient(circle_at_100%_50%,#113a5c,transparent_100%),radial-gradient(circle_at_50%_100%,#486664,transparent_85%)] flex flex-col items-center justify-center">
         <NavbarPorfo />
-        <Grainient
+        {/* <Grainient
             color1="#162433"
             color2="#486664"
             color3="#113A5C"
@@ -104,7 +104,7 @@ export default function PortfolioPage() {
             centerY={0}
             zoom={0.9}
             className="absolute z-0 inset-0 w-full h-full "
-          />
+          /> */}
         <div className="min-h-[200vh] w-full flex relative pt-30 md:pt-50 bg-fixed bg-[length:100vw] bg-start bg-no-repeat justify-start items-center flex-col">
           <Image
             src="/portfolio/backdropGrainPortfolio.png"
