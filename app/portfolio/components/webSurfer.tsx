@@ -51,18 +51,18 @@ export default function WebSurfer() {
           <div className='lg:hidden w-full flex flex-col gap-2'>
 
             <div className='flex w-full flex-row gap-2'>
-              <Image width={200} height={300} src="/portfolio/webSurfers/webSurfers3.png" alt="" className='w-2/3 h-auto' />
-              <Image width={200} height={300} src="/portfolio/webSurfers/webSurfers4.png" alt="" className='w-1/3 h-auto' />
+              <Image width={200} height={300} src="/portfolio/webSurfers/webSurfers3.png" alt="" className='w-2/3 h-auto max-h-[100px]' />
+              <Image width={200} height={300} src="/portfolio/webSurfers/webSurfers4.png" alt="" className='w-1/3 h-auto max-h-[100px]' />
             </div>
 
             <div className='flex w-full flex-row gap-2'>
-              <Image width={200} height={300} src="/portfolio/webSurfers/webSurfers5.png" alt="" className='w-1/2 h-auto' />
-              <Image width={200} height={300} src="/portfolio/webSurfers/webSurfers6.png" alt="" className='w-1/2 h-auto' />
+              <Image width={200} height={300} src="/portfolio/webSurfers/webSurfers5.png" alt="" className='w-1/2 h-auto max-h-[100px]' />
+              <Image width={200} height={300} src="/portfolio/webSurfers/webSurfers6.png" alt="" className='w-1/2 h-auto max-h-[100px]' />
             </div>
 
             <div className='flex w-full flex-row gap-2'>
-              <Image width={200} height={300} src="/portfolio/webSurfers/webSurfers7.png" alt="" className='w-1/2 h-auto' />
-              <Image width={200} height={300} src="/portfolio/webSurfers/webSurfers8.png" alt="" className='w-1/2 h-auto' />
+              <Image width={200} height={300} src="/portfolio/webSurfers/webSurfers7.png" alt="" className='w-1/2 h-auto max-h-[100px]' />
+              <Image width={200} height={300} src="/portfolio/webSurfers/webSurfers8.png" alt="" className='w-1/2 h-auto max-h-[100px]' />
             </div>
           </div>
           <p className={`text-2xl ${grenzeGotisch.className} text-justify`}>Byte and Pix were created to represent different ways people interact with the internet.
