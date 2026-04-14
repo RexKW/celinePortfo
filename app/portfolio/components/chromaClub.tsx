@@ -182,7 +182,7 @@ export default function ChromaClub() {
             </div>
 
             <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[-5%] right-[-20%]' alt="" />
-            <Image width={300} height={100} src="/portfolio/portfolioBottomBorder.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-0 left-[50%] translate-x-[-50%]' alt="" />
+            <Image width={300} height={100} src="/portfolio/portfolioBottomBorder.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-5 left-[50%] translate-x-[-50%]' alt="" />
             <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[55%] lg:w-[25%] h-auto absolute bottom-[-5%] left-[-20%] scale-x-[-1]' alt="" />
           </div>
 

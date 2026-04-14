@@ -19,9 +19,9 @@ export default function Home() {
             color1="#963D29"
             color2="#A14D24"
             color3="#702808"
-            timeSpeed={1.5}
+            timeSpeed={2}
             colorBalance={0.05}
-            warpStrength={3}
+            warpStrength={4}
             warpFrequency={4}
             warpSpeed={2}
             warpAmplitude={80}
