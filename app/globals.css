@@ -65,11 +65,11 @@ body {
 }
 
 a {
-  cursor: url('/cursor.png'), pointer;
+  cursor: url('/clicker.png'), pointer;
 }
 
 button {
-  cursor: url('/cursor.png'), pointer;
+  cursor: url('/clicker.png'), pointer;
 }
 
 .group:has(.card:hover) .card:not(:hover) {

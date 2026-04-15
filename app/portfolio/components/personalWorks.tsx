@@ -58,9 +58,9 @@ export default function PersonalWorks() {
                 <Image width={600} height={300} src="/portfolio/personalWorks/personalWorks7.png" className='w-full h-auto order-3' alt="" />
                 <Image width={600} height={300} src="/portfolio/personalWorks/personalWorks8.png" className='w-full h-auto order-4' alt="" />
                 </FadeInContainer>
-                            <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[40%] lg:w-[17%] h-auto absolute bottom-0  right-2' alt="" />
+                            <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[40%] lg:w-[17%] h-auto absolute bottom-0  right-[-5%] lg:right-2' alt="" />
                             <Image width={300} height={100} src="/portfolio/portfolioBottomBorder.svg" className='w-[45%] lg:w-[20%] h-auto absolute bottom-20 lg:bottom-25 lg:bottom-[1%] left-[50%] translate-x-[-50%]' alt="" />
-                            <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[40%] lg:w-[17%] h-auto absolute bottom-0 scale-x-[-1] left-2' alt="" />
+                            <Image width={300} height={600} src="/main/aboutCornerBottomFlower.svg" className='w-[40%] lg:w-[17%] h-auto absolute bottom-0 scale-x-[-1] left-[-5%] lg:left-2' alt="" />
             </div>
         </div>
     )
