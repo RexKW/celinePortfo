@@ -1,7 +1,7 @@
 import React from 'react'
-import { grenzeGotisch } from '../../fonts'
+import { grenzeGotisch } from '../../app/fonts'
 import Image from 'next/image'
-import FadeInContainer from '@/app/components/fadeInContainer'
+import FadeInContainer from '@/components/home/fadeInContainer'
 
 
 export default function ChromaClub() {

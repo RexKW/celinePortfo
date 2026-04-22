@@ -1,7 +1,7 @@
 import React from 'react'
-import { grenzeGotisch } from '../../fonts'
+import { grenzeGotisch } from '../../app/fonts'
 import Image from 'next/image'
-import FadeInContainer from '@/app/components/fadeInContainer'
+import FadeInContainer from '@/components/home/fadeInContainer'
 
 
 export default function Commissions() {
@@ -62,7 +62,7 @@ export default function Commissions() {
                         <Image width={400} height={200} src="/portfolio/commissionWork/commissionWork7.png" className='flex basis-1/3 h-[200px] bg-white' alt="" />
                     </div>
                     <div className='flex justify-end  w-full gap-10 mt-5'>
-                        <p className={`text-justify md:text-end md:w-[50%] text-2xl ${grenzeGotisch.className}`}>I began by creating composition thumbnails to explore different staging, character positioning, and movement. This stage focused on finding a dynamic interaction that communicated both the elegance of the dance and the subtle tension between the characters.</p>
+                        <p className={`text-justify md:text-end md:w-[50%] text-2xl ${grenzeGotisch.className}`}>After selecting a thumbnail, I refined the composition through a detailed sketch, then developed the lighting and color to support the ballroom atmosphere. The final rendering focuses on refining details and materials.</p>
                     </div>
                 </FadeInContainer>
             </div>

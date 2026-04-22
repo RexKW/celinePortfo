@@ -1,9 +1,9 @@
 import Image from "next/image";
-import NavbarMain from "./components/navbarMain";
-import About from "./components/about";
-import Portfolio from "./components/portfolio";
-import Footer from "./components/footer";
-import PageWrapper from "./components/pageWrapper";
+import NavbarMain from "../components/home/navbarMain";
+import About from "../components/home/about";
+import Portfolio from "../components/home/portfolio";
+import Footer from "../components/home/footer";
+import PageWrapper from "../components/home/pageWrapper";
 import Grainient from '../components/Grainient';
 import { grenzeGotisch } from "./fonts";
 

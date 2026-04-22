@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { Component } from "react";
-import { pirataOne } from "../fonts";
+import { pirataOne } from "../../app/fonts";
 
 
 export default class NavbarMain extends Component {

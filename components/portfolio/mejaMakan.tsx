@@ -1,4 +1,4 @@
-import FadeInContainer from '@/app/components/fadeInContainer'
+import FadeInContainer from '@/components/home/fadeInContainer'
 import { grenzeGotisch } from '@/app/fonts'
 import Image from 'next/image'
 import React from 'react'

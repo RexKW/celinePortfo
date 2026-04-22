@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import React from 'react'
-import { grenzeGotisch, pirataOne } from '../fonts'
+import { grenzeGotisch, pirataOne } from '../../app/fonts'
 
 function Footer() {
   return (

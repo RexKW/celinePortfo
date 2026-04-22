@@ -1,5 +1,5 @@
 import React from 'react'
-import { grenzeGotisch } from '../fonts'
+import { grenzeGotisch } from '../../app/fonts'
 import FadeInContainer from './fadeInContainer'
 
 function About() {
